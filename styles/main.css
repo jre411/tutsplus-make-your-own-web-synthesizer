@@ -1,8 +1,11 @@
 body {
-    font-family: sans-serif;
+    font-family: garamond, serif;
+    text-align: center;
 }
 
 .container {
     margin: auto;
+    align-content: center;
+    text-align: center;
     width: 800px;
 }
